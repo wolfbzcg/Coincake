@@ -24,7 +24,7 @@ Please ensure the following before installation:
 ## 📥 Step 1: Download the APK
 
 1. Open the official download page:
-   👉 https://github.com/DAO-Coincake/coincake-platform/releases/latest
+   👉 https://dao-coincake.github.io/coincake-platform/download/index.html
 2. Download the latest **Coincake Android APK** file from the release assets
 
 > ⚠️ Please download the APK from official sources only.
