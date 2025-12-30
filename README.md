@@ -37,7 +37,7 @@ For security and stability reasons, please always download the app from the link
 ### 🤖 Android (APK)
 
 - **Latest Android APK**
-👉 https://dao-coincake.github.io/coincake-platform/download/
+👉 [Latest Android APK Download](https://dao-coincake.github.io/coincake-platform/download/)
 
 **Installation Notes:**
 - Please enable **“Install unknown apps”** in your Android system settings
@@ -49,7 +49,7 @@ For security and stability reasons, please always download the app from the link
 ### 🍎 iOS (Signed Configuration Profile)
 
 - **iOS Configuration Profile (.mobileconfig)**
-👉 https://dao-coincake.github.io/coincake-platform/download/
+👉 [Latest IOS Download](https://dao-coincake.github.io/coincake-platform/download/)
 
 This version is distributed using an official signed configuration profile.
 
