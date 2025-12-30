@@ -1,3 +1,8 @@
+**Language:** English | [简体中文](ios-install.zh-CN.md)
+
+---
+
+
 # 📱 Coincake iOS Installation Guide
 
 This guide will walk you through the official installation process for Coincake on iOS devices.
