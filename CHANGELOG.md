@@ -1,4 +1,6 @@
-**语言：** [CHANGELOG.zh-CN.md]([English) | 简体中文
+**Language:** English | [简体中文](CHANGELOG.zh-CN.md)
+
+---
 
 # 📘 Changelog
 
