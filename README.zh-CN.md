@@ -30,7 +30,7 @@ Coincake 仅通过 **官方认证的分发渠道** 提供应用程序。
 ### 🤖 Android（APK）
 
 - **最新 Android 安装包**
-👉 https://coincake-platform.github.io/Coincake/download/
+👉 https://dao-coincake.github.io/coincake-platform/download/zh-CN.html
 
 **安装说明：**
 - 请在系统设置中允许“安装未知来源应用”
@@ -42,7 +42,7 @@ Coincake 仅通过 **官方认证的分发渠道** 提供应用程序。
 ### 🍎 iOS（签名配置文件）
 
 - **iOS 配置描述文件（.mobileconfig）**
-👉 https://coincake-platform.github.io/Coincake/download/
+👉 https://dao-coincake.github.io/coincake-platform/download/zh-CN.html
 
 iOS 版本通过 **官方签名的配置描述文件** 进行分发。
 
