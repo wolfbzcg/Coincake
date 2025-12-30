@@ -1,3 +1,5 @@
+**Language:** English | [简体中文](README.zh-CN.md)
+
 # Coincake Platform
 
 **Coincake** is a professional digital asset service platform designed to provide users with a secure, stable, and efficient application experience.
