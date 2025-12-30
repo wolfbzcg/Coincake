@@ -1,3 +1,7 @@
+**Language:** English | [简体中文](SUPPORT.zh-CN.md)
+
+---
+
 # Support
 
 Official support for the Coincake platform is provided through verified channels only.
