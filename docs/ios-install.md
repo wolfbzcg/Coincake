@@ -27,7 +27,7 @@ Please make sure you meet the following requirements:
 ## 📥 Step 1: Download the Configuration Profile
 
 1. Open the official download page:
-   👉 https://github.com/DAO-Coincake/coincake-platform/releases/latest
+   👉 https://dao-coincake.github.io/coincake-platform/download/index.html
 2. Download the file named:
 
 **coincake.1208.mobileconfig**
