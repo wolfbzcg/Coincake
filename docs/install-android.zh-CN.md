@@ -23,7 +23,7 @@ Coincake Android 版本 **仅通过官方 GitHub Releases 渠道发布**，请�
 ## 📥 第一步：下载 APK 安装包
 
 1. 打开 Coincake 官方下载页面：  
-   👉 https://coincake-platform.github.io/Coincake/download/
+   👉 https://dao-coincake.github.io/coincake-platform/download/zh-CN.html
 2. 点击 **“下载最新 APK”**
 3. 等待 APK 文件下载完成
 
@@ -86,7 +86,7 @@ Coincake 应用图标将出现在您的主屏幕或应用列表中。
 - 请勿安装任何经过修改的第三方 APK 文件  
 
 如需了解更多安全信息，请参阅：  
-👉 https://github.com/DAO-Coincake/coincake-platform/blob/main/SECURITY.md
+👉 https://github.com/DAO-Coincake/coincake-platform/blob/main/SECURITY.zh-CN.md
 
 ---
 
