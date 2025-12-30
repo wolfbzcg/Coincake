@@ -10,6 +10,11 @@ The format is based on versioned releases and focuses on user-visible improvemen
 
 ---
 
+- **Changelog (English):**  
+  https://github.com/DAO-Coincake/coincake-platform/blob/main/CHANGELOG.md
+
+---
+
 ## [v1.0.0] - 2025-01-01
 ### Added
 - Initial public release of the Coincake Android application
