@@ -15,14 +15,14 @@ Please make sure you meet the following requirements:
 - **Safari browser** (recommended)
 
 > ⚠️ For best compatibility, please use **Safari** to download and install the configuration profile.  
-> Some in-app browsers (e.g. Telegram, WeChat) may not support profile installation correctly.
+> Some in-app browsers (e.g. Telegram, Messanger, Whatsapp) may not support profile installation correctly.
 
 ---
 
 ## 📥 Step 1: Download the Configuration Profile
 
 1. Open the official download page:
-   👉 https://github.com/wolfbzcg/Coincake/releases/latest
+   👉 https://github.com/DAO-Coincake/coincake-platform/releases/latest
 2. Download the file named:
 
 **coincake.1208.mobileconfig**
@@ -88,7 +88,7 @@ Once installation is complete:
 - Avoid third-party or unofficial download links
 
 For security-related information, please refer to:
-👉 https://github.com/wolfbzcg/Coincake/blob/main/SECURITY.md
+👉 https://github.com/DAO-Coincake/coincake-platform/blob/main/SECURITY.md
 
 ---
 
