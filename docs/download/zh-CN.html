@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Coincake — 官方下载</title>
+  <meta name="description" content="Coincake 官方下载页（Android / iOS）。请仅通过官方渠道下载安装。" />
+
+  <style>
+    :root{
+      --bg:#0b1220;
+      --card:#0f1b33;
+      --text:#eaf0ff;
+      --muted:#a9b6d6;
+      --line:rgba(255,255,255,.10);
+      --btn:#2b6dff;
+      --shadow:0 16px 40px rgba(0,0,0,.35);
+      --radius:18px;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+      background:
+        radial-gradient(1200px 800px at 20% 10%, rgba(43,109,255,.18), transparent 60%),
+        radial-gradient(1000px 700px at 80% 20%, rgba(0,224,255,.10), transparent 55%),
+        var(--bg);
+      color:var(--text);
+      line-height:1.55;
+    }
+    a{color:inherit;text-decoration:none}
+    .wrap{max-width:980px;margin:0 auto;padding:28px 18px 60px}
+    header{display:flex;justify-content:space-between;gap:16px;padding-bottom:18px;flex-wrap:wrap}
+    .brand h1{margin:0;font-size:28px}
+    .brand p{margin:6px 0 0;color:var(--muted);max-width:620px}
+    .toplinks{display:flex;gap:10px;flex-wrap:wrap}
+    .chip{
+      border:1px solid var(--line);
+      padding:10px 14px;
+      border-radius:999px;
+      font-size:13px;
+      color:var(--muted);
+      background:rgba(255,255,255,.04);
+    }
+    .chip:hover{color:var(--text);border-color:rgba(255,255,255,.2)}
+    .grid{display:grid;grid-template-columns:1fr;gap:16px}
+    @media(min-width:860px){.grid{grid-template-columns:1fr 1fr}}
+    .card{
+      border:1px solid var(--line);
+      border-radius:var(--radius);
+      padding:18px;
+      background:linear-gradient(180deg,rgba(255,255,255,.06),rgba(255,255,255,.03));
+      box-shadow:var(--shadow);
+    }
+    .badge{
+      display:inline-block;
+      font-size:12px;
+      color:var(--muted);
+      border:1px solid var(--line);
+      border-radius:999px;
+      padding:6px 10px;
+      margin-bottom:8px;
+    }
+    .card h2{margin:6px 0;font-size:18px}
+    .card p{margin:0 0 12px;color:var(--muted)}
+    .btnrow{display:flex;gap:10px;flex-wrap:wrap}
+    .btn{
+      padding:12px 16px;
+      border-radius:12px;
+      background:var(--btn);
+      color:#fff;
+      font-weight:600;
+      border:1px solid rgba(255,255,255,.1);
+    }
+    .btn.secondary{
+      background:rgba(255,255,255,.06);
+      color:var(--text);
+    }
+    .note{
+      margin-top:12px;
+      font-size:13px;
+      color:var(--muted);
+      padding:10px 12px;
+      border-radius:12px;
+      border:1px solid var(--line);
+      background:rgba(0,0,0,.25);
+    }
+    .section{
+      margin-top:20px;
+      padding:16px 18px;
+      border-radius:var(--radius);
+      border:1px solid var(--line);
+      background:rgba(255,255,255,.03);
+    }
+    .section h3{
+      margin:0 0 10px;
+      font-size:13px;
+      text-transform:uppercase;
+      letter-spacing:.3px;
+      color:#cfe0ff;
+    }
+    .section ul{margin:0;padding-left:18px;color:var(--muted);font-size:14px}
+    footer{margin-top:24px;text-align:center;font-size:12px;color:rgba(255,255,255,.45)}
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <h1>Coincake</h1>
+        <p>官方下载页。为确保安全与稳定，请仅通过 Coincake 官方渠道下载安装。</p>
+      </div>
+      <div class="toplinks">
+        <a class="chip" href="https://github.com/DAO-Coincake/coincake-platform" target="_blank" rel="noopener">仓库</a>
+        <a class="chip" href="https://github.com/DAO-Coincake/coincake-platform/releases" target="_blank" rel="noopener">版本发布</a>
+        <a class="chip" href="https://t.me/coincakesupport" target="_blank" rel="noopener">Telegram 客服</a>
+        <a class="chip" href="./index.html">English</a>
+      </div>
+    </header>
+
+    <div class="grid">
+      <!-- Android -->
+      <div class="card">
+        <span class="badge">🤖 Android · APK</span>
+        <h2>Android 下载</h2>
+        <p>下载 Coincake 最新官方 Android APK 安装包。</p>
+
+        <div class="btnrow">
+          <a class="btn"
+             href="https://github.com/DAO-Coincake/coincake-platform/releases/download/v1.0.0/coincake.apk"
+             download>
+            下载最新 APK
+          </a>
+
+          <a class="btn secondary"
+             href="https://github.com/DAO-Coincake/coincake-platform/blob/main/docs/install-android.md"
+             target="_blank" rel="noopener">
+            安装指南
+          </a>
+        </div>
+
+        <div class="note">
+          如出现安全提示，请在系统设置中允许“安装未知来源应用”，然后继续安装。
+        </div>
+      </div>
+
+      <!-- iOS -->
+      <div class="card">
+        <span class="badge">🍎 iOS · 配置文件</span>
+        <h2>iOS 下载</h2>
+        <p>iOS 版本通过官方签名配置描述文件（<code>.mobileconfig</code>）进行分发。</p>
+
+        <div class="btnrow">
+          <a class="btn"
+             href="https://github.com/DAO-Coincake/coincake-platform/releases/download/v1.0.0/coincake.1208.mobileconfig"
+             download>
+            下载 iOS 配置文件
+          </a>
+
+          <a class="btn secondary"
+             href="https://github.com/DAO-Coincake/coincake-platform/blob/main/docs/ios-install.md"
+             target="_blank" rel="noopener">
+            安装指南
+          </a>
+        </div>
+
+        <div class="note">
+          为获得最佳兼容性，请使用 iOS 的 <b>Safari</b> 打开并下载安装配置文件。
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h3>版本与更新</h3>
+      <ul>
+        <li><a href="https://github.com/DAO-Coincake/coincake-platform/releases/latest" target="_blank" rel="noopener">最新版本</a></li>
+        <li><a href="https://github.com/DAO-Coincake/coincake-platform/releases" target="_blank" rel="noopener">历史版本</a></li>
+        <li><a href="https://github.com/DAO-Coincake/coincake-platform/blob/main/CHANGELOG.md" target="_blank" rel="noopener">更新日志（CHANGELOG）</a></li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>安全提示</h3>
+      <ul>
+        <li>Coincake 不会索取私钥或任何敏感凭证</li>
+        <li>请仅通过本页面及官方渠道下载安装</li>
+        <li><a href="https://github.com/DAO-Coincake/coincake-platform/blob/main/SECURITY.md" target="_blank" rel="noopener">安全政策</a></li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>官方支持</h3>
+      <ul>
+        <li><a href="https://t.me/coincakesupport" target="_blank" rel="noopener">Telegram 客服</a></li>
+        <li><a href="https://github.com/DAO-Coincake/coincake-platform/blob/main/SUPPORT.md" target="_blank" rel="noopener">支持说明</a></li>
+      </ul>
+    </div>
+
+    <footer>
+      © Coincake. 保留所有权利。
+    </footer>
+  </div>
+</body>
+</html>
