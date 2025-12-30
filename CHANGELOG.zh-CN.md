@@ -10,6 +10,11 @@
 
 ---
 
+- 更新日志（中文）：  
+  https://github.com/DAO-Coincake/coincake-platform/blob/main/CHANGELOG.zh-CN.md
+
+---
+
 ## [v1.0.0] - 2025-01-01
 ### 新增
 - Coincake Android 应用首次对外正式发布
