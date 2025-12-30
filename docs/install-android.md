@@ -1,3 +1,8 @@
+**Language:** English | [简体中文](install-android.zh-CN.md)
+
+---
+
+
 # 🤖 Coincake Android Installation Guide
 
 This guide explains how to safely install the official Coincake application on Android devices.
