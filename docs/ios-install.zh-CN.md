@@ -26,7 +26,7 @@ Coincake iOS 版本通过 **官方签名的配置描述文件（.mobileconfig）
 ## 📥 第一步：下载配置描述文件
 
 1. 打开 Coincake 官方下载页面：  
-   👉 https://coincake-platform.github.io/Coincake/download/
+   👉 https://dao-coincake.github.io/coincake-platform/download/zh-CN.html
 2. 点击 **“下载 iOS 配置文件”**
 3. 下载文件：  
 **coincake.1208.mobileconfig**
@@ -91,7 +91,7 @@ Coincake iOS 版本通过 **官方签名的配置描述文件（.mobileconfig）
 - 请警惕冒充官方的第三方链接或人员  
 
 如需了解更多安全信息，请参阅：  
-👉 https://github.com/DAO-Coincake/coincake-platform/blob/main/SECURITY.md
+👉 https://github.com/DAO-Coincake/coincake-platform/blob/main/SECURITY.zh-CN.md
 
 ---
 
