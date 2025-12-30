@@ -1,3 +1,8 @@
+**Language:** English | [简体中文](SECURITY.zh-CN.md)
+
+---
+
+
 # Security Policy
 
 Coincake takes security issues seriously and is committed to protecting users and platform integrity.
