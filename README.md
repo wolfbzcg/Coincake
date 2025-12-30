@@ -26,7 +26,7 @@ For security and stability reasons, please always download the app from the link
 ### 🤖 Android (APK)
 
 - **Latest Android APK**
-👉 https://github.com/wolfbzcg/Coincake/releases/latest
+👉 https://github.com/DAO-Coincake/coincake-platform/releases
 
 **Installation Notes:**
 - Please enable **“Install unknown apps”** in your Android system settings
@@ -38,7 +38,7 @@ For security and stability reasons, please always download the app from the link
 ### 🍎 iOS (Signed Configuration Profile)
 
 - **iOS Configuration Profile (.mobileconfig)**
-👉 https://github.com/wolfbzcg/Coincake/releases/latest
+👉 https://github.com/DAO-Coincake/coincake-platform/releases
 
 This version is distributed using an official signed configuration profile.
 
@@ -58,13 +58,13 @@ This version is distributed using an official signed configuration profile.
 ## 🔄 Version Updates
 
 - **Latest Release:**  
-  https://github.com/wolfbzcg/Coincake/releases/latest
+  https://github.com/DAO-Coincake/coincake-platform/releases/latest
 
 - **Release History:**  
-  https://github.com/wolfbzcg/Coincake/releases
-
+  https://github.com/DAO-Coincake/coincake-platform/releases
+  
 - **Changelog:**  
-  https://github.com/wolfbzcg/Coincake/blob/main/CHANGELOG.md
+  https://github.com/DAO-Coincake/coincake-platform/blob/main/CHANGELOG.md
 
 Each release includes detailed information on improvements, security updates, and bug fixes.
 
@@ -73,13 +73,13 @@ Each release includes detailed information on improvements, security updates, an
 ## 🛠 Documentation
 
 - **Android Installation Guide:**  
-  https://github.com/wolfbzcg/Coincake/blob/main/docs/install-android.md
+  https://github.com/DAO-Coincake/coincake-platform/blob/main/docs/install-android.md
 
 - **iOS Installation Guide:**  
-  https://github.com/wolfbzcg/Coincake/blob/main/docs/ios-install.md
+  https://github.com/DAO-Coincake/coincake-platform/blob/main/docs/ios-install.md
 
 - **FAQ:**  
-  https://github.com/wolfbzcg/Coincake/blob/main/docs/faq.md
+  https://github.com/DAO-Coincake/coincake-platform/blob/main/docs/faq.md
 
 ---
 
@@ -92,7 +92,7 @@ Coincake places a strong emphasis on platform and user security.
 - Avoid third-party or unofficial distribution channels  
 
 For security-related information, please refer to:
-👉 https://github.com/wolfbzcg/Coincake/blob/main/SECURITY.md
+👉 https://github.com/DAO-Coincake/coincake-platform/blob/main/SECURITY.md
 
 ---
 
