@@ -2,7 +2,7 @@
 
 **Coincake** is a professional digital asset service platform designed to provide users with a secure, stable, and efficient application experience.
 
-The platform focuses on reliability, security, and long-term maintainability, delivering a clean interface and optimized performance suitable for both new users and experienced participants.
+The platform emphasizes reliability, security, and long-term maintainability, delivering a clean interface and optimized performance suitable for both new users and experienced participants.
 
 ---
 
@@ -10,23 +10,34 @@ The platform focuses on reliability, security, and long-term maintainability, de
 
 - Professional and stable platform architecture  
 - Enhanced security and risk control mechanisms  
-- Optimized mobile experience  
-- Continuous updates and maintenance  
-- Official customer support via Telegram  
+- Optimized mobile user experience  
+- Continuous updates and long-term maintenance  
+- Official customer support via verified channels  
 
 ---
 
-## 📥 Download (Latest Version)
+## 📲 Official App Download
 
-### Android
-- **Android APK (Latest Release)**  
+Coincake provides official application packages through verified distribution channels only.  
+For security and stability reasons, please always download the app from the links below.
+
+---
+
+### 🤖 Android (APK)
+
+- **Latest Android APK**
 👉 https://github.com/wolfbzcg/Coincake/releases/latest
 
-> Please enable **“Install unknown apps”** in your Android system settings before installation.
+**Installation Notes:**
+- Please enable **“Install unknown apps”** in your Android system settings
+- Download and install the APK from the latest release assets
+- For best performance, always use the most recent version
 
-### iOS (Signed Configuration Profile)
+---
 
-- **iOS Configuration Profile (.mobileconfig)**  
+### 🍎 iOS (Signed Configuration Profile)
+
+- **iOS Configuration Profile (.mobileconfig)**
 👉 https://github.com/wolfbzcg/Coincake/releases/latest
 
 This version is distributed using an official signed configuration profile.
@@ -39,16 +50,17 @@ This version is distributed using an official signed configuration profile.
    (or **Profiles**, depending on iOS version)
 5. Select **Coincake** profile and tap **Install**
 6. Follow the on-screen instructions to complete installation
-7. If required, trust the profile under **Device Management**
 
-> ⚠️ Please do not download or install from unofficial sources.
-
+> ⚠️ Please do not download or install from unofficial or third-party sources.
 
 ---
 
-## 📌 Release Notes & Updates
+## 🔄 Version Updates
 
-- **All Releases:**  
+- **Latest Release:**  
+  https://github.com/wolfbzcg/Coincake/releases/latest
+
+- **Release History:**  
   https://github.com/wolfbzcg/Coincake/releases
 
 - **Changelog:**  
@@ -63,29 +75,34 @@ Each release includes detailed information on improvements, security updates, an
 - **Android Installation Guide:**  
   https://github.com/wolfbzcg/Coincake/blob/main/docs/install-android.md
 
+- **iOS Installation Guide:**  
+  https://github.com/wolfbzcg/Coincake/blob/main/docs/ios-install.md
+
 - **FAQ:**  
   https://github.com/wolfbzcg/Coincake/blob/main/docs/faq.md
 
 ---
 
-## 🔐 Security Notice
+## 🔐 Security
 
-- Coincake does **not** request private keys or sensitive credentials  
-- Always download the application from official GitHub Releases only  
-- Avoid third-party or unofficial download sources  
+Coincake places a strong emphasis on platform and user security.
 
-For security-related concerns, please refer to:
+- The platform does **not** request private keys or sensitive credentials  
+- Always download the application from official GitHub Releases  
+- Avoid third-party or unofficial distribution channels  
+
+For security-related information, please refer to:
 👉 https://github.com/wolfbzcg/Coincake/blob/main/SECURITY.md
 
 ---
 
 ## 📞 Support
 
-For installation issues, account assistance, or general inquiries, please contact our official support channel:
+For installation assistance, account inquiries, or general questions, please contact our official support channel:
 
-👉 **Telegram:** https://t.me/coincakesupport
+👉 **Telegram Support:** https://t.me/coincakesupport
 
-Support requests are handled through official channels only.
+Support is provided through verified channels only.
 
 ---
 
