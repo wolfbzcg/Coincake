@@ -76,7 +76,7 @@ iOS 版本通过 **官方签名的配置描述文件** 进行分发。
   https://github.com/DAO-Coincake/coincake-platform/releases
 
 - **更新日志：**  
-  https://github.com/DAO-Coincake/coincake-platform/blob/main/CHANGELOG.md
+  https://github.com/DAO-Coincake/coincake-platform/blob/main/CHANGELOG.zh-CN.md
 
 每次版本发布都会包含功能优化、安全更新与问题修复说明。
 
@@ -85,10 +85,10 @@ iOS 版本通过 **官方签名的配置描述文件** 进行分发。
 ## 🛠 使用文档
 
 - **Android 安装指南：**  
-  https://github.com/DAO-Coincake/coincake-platform/blob/main/docs/install-android.md
+  https://github.com/DAO-Coincake/coincake-platform/blob/main/docs/install-android.zh-CN.md
 
 - **iOS 安装指南：**  
-  https://github.com/DAO-Coincake/coincake-platform/blob/main/docs/ios-install.md
+  https://github.com/DAO-Coincake/coincake-platform/blob/main/docs/ios-install.zh-CN.md
 
 ---
 
@@ -101,7 +101,7 @@ Coincake 高度重视用户与平台安全：
 - 谨防冒充官方的第三方链接或渠道  
 
 安全相关政策请参阅：  
-👉 https://github.com/DAO-Coincake/coincake-platform/blob/main/SECURITY.md
+👉 https://github.com/DAO-Coincake/coincake-platform/blob/main/SECURITY.zh-CN.md
 
 ---
 
