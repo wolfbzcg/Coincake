@@ -22,7 +22,7 @@ The platform emphasizes reliability, security, and long-term maintainability, de
 
 Visit the official Coincake website for product information, downloads, and updates:
 
-👉 https://coincake-platform.github.io/Coincake/
+👉 https://coincake.org
 
 ---
 
