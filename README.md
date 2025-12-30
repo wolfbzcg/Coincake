@@ -24,17 +24,25 @@ The platform focuses on reliability, security, and long-term maintainability, de
 
 > Please enable **“Install unknown apps”** in your Android system settings before installation.
 
-### iOS (Signed Profile)
-- iOS Configuration Profile (.mobileconfig)
+### iOS (Signed Configuration Profile)
+
+- **iOS Configuration Profile (.mobileconfig)**  
 👉 https://github.com/wolfbzcg/Coincake/releases/latest
 
-**Install steps:**
-1. Download `coincake.1208.mobileconfig` from the latest release
-2. Open it on your iPhone → tap **Allow**
-3. Go to **Settings → General → VPN & Device Management** (or **Profiles**)  
-4. Select **Coincake** profile → tap **Install**
-5. Follow the on-screen instructions to complete installation
-6. If required, trust the developer certificate under **Device Management**
+This version is distributed using an official signed configuration profile.
+
+**Installation Steps:**
+1. Open the download link using **Safari on iOS**
+2. Download `coincake.1208.mobileconfig`
+3. When prompted, tap **Allow**
+4. Go to **Settings → General → VPN & Device Management**  
+   (or **Profiles**, depending on iOS version)
+5. Select **Coincake** profile and tap **Install**
+6. Follow the on-screen instructions to complete installation
+7. If required, trust the profile under **Device Management**
+
+> ⚠️ Please do not download or install from unofficial sources.
+
 
 ---
 
