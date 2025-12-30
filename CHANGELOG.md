@@ -1,3 +1,5 @@
+**语言：** [English](CHANGELOG.md) | 简体中文
+
 # 📘 Changelog
 
 All notable changes to the Coincake platform will be documented in this file.
