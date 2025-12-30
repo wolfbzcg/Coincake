@@ -18,6 +18,15 @@ The platform emphasizes reliability, security, and long-term maintainability, de
 
 ---
 
+## 🌐 Official Website
+
+Visit the official Coincake website for product information, downloads, and updates:
+
+👉 https://coincake-platform.github.io/Coincake/
+
+---
+
+
 ## 📲 Official App Download
 
 Coincake provides official application packages through verified distribution channels only.  
